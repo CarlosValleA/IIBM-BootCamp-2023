@@ -22,7 +22,7 @@ The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          | Description             |
 |-------|---------------------------|---------------------------------------|
-| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | Setting up Tools Google Colab and Github and basics of data types| 
+| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://github.com/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Morning_tools_elemental_python.ipynb ) | Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon | | Control flow|
 | Day 2 morning | | Reading data, arithmetics and functions|
 | Day 2 afternoon |  | Excersise: 'SARS-Cov-2 sequence' |
