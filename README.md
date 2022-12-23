@@ -50,11 +50,11 @@ Check out the incredible speaker presentations we had throughout the week
 
 | Day | Presentation | Profesor                  | Lab                                                                             |
 |-----|--------------|---------------------------|---------------------------------------------------------------------------------|
-| 1   |              |             TBA              |                                                                                 |
-| 2   |              | César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/ )                                       |
-| 3   |              | Tobias Wenzel             | [Wenzel Lab]( https://wenzel-lab.github.io/ )                                   |
-| 4   |              | María Rodríguez-Fernández | [Quantitative Physiology Lab](https://marodriguezf.sitios.ing.uc.cl/index.html) |
-| 5   |              | René Botnar               |       *                 |
+| 1   |              | René Botnar               |          *                                                                      |
+| 2   |              | TBA                       |                                                                                 |
+| 3   |              | César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                       |
+| 4   |              | Francisco Sahli           | [Francisco Sahli Github](https://fsahli.github.io/) |
+| 5   |              | TBA                       |                                                                                 |
 
 
 ## **Topics**
@@ -96,6 +96,11 @@ Check out the incredible speaker presentations we had throughout the week
 11. Algebra
     * Matrix operations
     * Vector operations
+
+### *Image processing*
+12. Basic Operations
+    * Filter
+    * Fourier Transform
 
 
 ## **Downloading Matlab**
