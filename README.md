@@ -49,13 +49,13 @@ In order to give you feedback after the morning and afternoon sessions, please s
 Check out the incredible speaker presentations we had throughout the week
 
 
-| Day | Presentation | Profesor                  | Lab                                                                             |
-|-----|--------------|---------------------------|---------------------------------------------------------------------------------|
-| 1   |              | René Botnar               |          *                                                                      |
-| 2   |              | TBA                       |                                                                                 |
-| 3   |              | César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                       |
-| 4   |              | Francisco Sahli           | [Francisco Sahli Github](https://fsahli.github.io/) |
-| 5   |              | TBA                       |                                                                                 |
+| Day | Presentation | Profesor                  | Lab                                                                              |
+|-----|--------------|---------------------------|--------------------------------------------------------------------------------- |
+| 1   |              | René Botnar               |          -                                                                       |
+| 2   |              | Tobias Wenzel             | [Wenzel Lab](https://wenzel-lab.github.io/)                                      |
+| 3   |              | César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                         |
+| 4   |              | Francisco Sahli           | [Francisco Sahli Github](https://fsahli.github.io/)                              |
+| 5   |              | María Rodríguez-Fernández     | [Quantitative Physiology Lab](https://marodriguezf.sitios.ing.uc.cl)         |
 
 
 ## **Topics**
