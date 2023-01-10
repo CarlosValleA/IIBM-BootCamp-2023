@@ -42,7 +42,7 @@ In order to give you feedback after the morning and afternoon sessions, please s
 
 
 ## **Week Schedule**
-![imagen](https://github.com/CarlosValleA/IIBM-BootCamp-2023/blob/main/images/week_schedule.png)
+![imagen](https://github.com/CarlosValleA/IIBM-BootCamp-2023/blob/main/assets/week_schedule.png)
 
 
 ## **Speakers presentations**
