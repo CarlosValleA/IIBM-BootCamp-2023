@@ -8,6 +8,7 @@ The IIBM Bootcamp will be held between January 16 and 20 of 2022. During the 5 d
 
 Jupyter notebooks and scripts for each day will be uploaded here at the end of the day.
 
+
 ## **Learning Objetives**
 * Adcquire basic programming skills
 * Apply programming tools
