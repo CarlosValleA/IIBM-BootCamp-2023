@@ -1,5 +1,5 @@
 
-[![Typos](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml)
+![Speech](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)
 
 
 # IIBM Bootcamp 2023
@@ -8,7 +8,7 @@
 **Instructors**: Carlos Valle (cgvalle@uc.cl) & Gabriela Vargas (givargas@uc.cl)
 
 
-The IIBM Bootcamp willl be held between January 16 and 20 of 2022. During the 5 days, practical exercises in relation to [Python](https://www.python.org/) and [Matlab](https://la.mathworks.com/) Programming languages, Calculus and Algebra will be taught, been the main objective to prepare students of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tools that will be necessary to succeed in the different courses of the Masters and Ph.D. programs.
+The IIBM Bootcamp will be held between January 16 and 20 of 2022. During the 5 days, practical exercises in relation to [Python](https://www.python.org/) and [Matlab](https://la.mathworks.com/) Programming languages, Calculus and Algebra will be taught, been the main objective to prepare students of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tools that will be necessary to succeed in the different courses of the Masters and Ph.D. programs.
 
 Jupyter notebooks and scripts for each day will be uploaded here at the end of the day.
 
