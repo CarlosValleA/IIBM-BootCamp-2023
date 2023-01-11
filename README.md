@@ -50,7 +50,7 @@ In order to give you feedback after the morning and afternoon sessions, please s
 Check out the incredible speaker presentations we had throughout the week
 
 
-| Day | Presentation | Profesor                  | Lab                                                                              |
+| Day | Presentation | Professor                  | Lab                                                                              |
 |-----|--------------|---------------------------|--------------------------------------------------------------------------------- |
 | 1   |              | René Botnar               |          -                                                                       |
 | 2   |              | Tobias Wenzel             | [Wenzel Lab](https://wenzel-lab.github.io/)                                      |
