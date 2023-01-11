@@ -1,3 +1,7 @@
+
+[![Typos](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml)
+
+
 # IIBM Bootcamp 2023
 ### Institute for Biological and Medical Engineering [(IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/), Pontificia Universidad Catolica de Chile.
 
