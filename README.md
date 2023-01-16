@@ -31,12 +31,11 @@ The following is a brief description of each tutorial generated in 2022:
 | Day 1 afternoon | | Control flow|
 | Day 2 morning | | Reading data, arithmetics and functions|
 | Day 2 afternoon |  | Excersise: 'SARS-Cov-2 sequence' |
-| Day 3 morning - numpy | | Numpy: Array and matrix|
-| Day 3 morning - plots|  | Matplotlib: Figures and plots |
+| Day 3 morning  | | Numpy, Matlab arrays and plots|
 | Day 3 afternoon | | Excersise: 'Chile: COVID data'|
 | Day 4 morning | | Derivatives|
-| Day 4 afternoon | | Integrals|
-| Day 5 morning |  | Integrals, Linear equations, Filtering|
+| Day 4 afternoon | | Integrals and Convolutional filters|
+| Day 5 morning |  | Linear equations and Fourier Transform|
 | Day 5 afternoon |  | Excersise: Integrate all the week content |
 
 
