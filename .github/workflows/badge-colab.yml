@@ -1,9 +1,9 @@
-name: Example Workflow
+name: Colab Badge
 on: [push]
 
 jobs:
   badges:
-    name: Example Badge Job
+    name: Badge Job
     runs-on: ubuntu-latest
     steps:
       - name: Checkout first
@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: CarlosValleA/compose
+          target_repository: CarlosValleA/IIBM-BootCamp-2023
           update: true
 
       - name: Commit & Push changes

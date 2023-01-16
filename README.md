@@ -1,5 +1,6 @@
 
-![Speech](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)
+![Spell](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)
+![Badge](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/badge-colab.yml/badge.svg)
 
 
 # IIBM Bootcamp 2023
@@ -27,7 +28,7 @@ The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          | Description             |
 |-------|---------------------------|---------------------------------------|
-| Day 1 morning |  | Setting up Tools Google Colab and Github and basics of data types| 
+| Day 1 morning | {{badge D1/D1Morning_tools_elemental_python.ipynb}} | Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon | | Control flow|
 | Day 2 morning | | Reading data, arithmetics and functions|
 | Day 2 afternoon |  | Excersise: 'SARS-Cov-2 sequence' |
@@ -55,7 +56,7 @@ Check out the incredible speaker presentations we had throughout the week
 
 | Day | Presentation | Professor                  | Lab                                                                              |
 |-----|--------------|---------------------------|--------------------------------------------------------------------------------- |
-| 1   |              | René Botnar               |          -                                                                       |
+| 1   |              | René Botnar               | [King's College London](https://www.kcl.ac.uk/people/rene-botnar)              |
 | 2   |              | Tobias Wenzel             | [Wenzel Lab](https://wenzel-lab.github.io/)                                      |
 | 3   |              | César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                         |
 | 4   |              | Francisco Sahli           | [Francisco Sahli Github](https://fsahli.github.io/)                              |
