@@ -1,5 +1,4 @@
 
-![Spell](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/typos.yml/badge.svg)
 ![Badge](https://github.com/CarlosValleA/IIBM-BootCamp-2023/actions/workflows/badge-colab.yml/badge.svg)
 
 
