@@ -25,7 +25,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 The following is a brief description of each tutorial generated in 2022:
 
-| Day   | Colab tutorial          |  Solutions |          Description             |
+| Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
 | Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Morning_tools_elemental_python.ipynb) |-| Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Afternoon_controlFlow.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Afternoon_controlFlow_SOLUTION.ipynb)| Control flow|
