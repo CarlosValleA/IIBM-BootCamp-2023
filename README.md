@@ -25,19 +25,18 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 The following is a brief description of each tutorial generated in 2022:
 
-| Day   | Colab tutorial          | Description             |
-|-------|---------------------------|---------------------------------------|
-| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | Setting up Tools Google Colab and Github and basics of data types| 
-| Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Afternoon_controlFlow.ipynb)| Control flow|
-| Day 1 afternoon SOLUTION| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Afternoon_controlFlow%20SOLUTION.ipynb)| Control flow Solution|
-| Day 2 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D2/D2Morning.ipynb)| Reading data, arithmetics and functions|
-| Day 2 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D2/D2Afertoon.ipynb) | Excersise: 'SARS-Cov-2 sequence' |
-| Day 3 morning  | | Numpy, Matlab arrays and plots|
-| Day 3 afternoon | | Excersise: 'Chile: COVID data'|
-| Day 4 morning | | Derivatives|
-| Day 4 afternoon | | Integrals and Convolutional filters|
-| Day 5 morning |  | Linear equations and Fourier Transform|
-| Day 5 afternoon |  | Excersise: Integrate all the week content |
+| Day   | Colab tutorial          |  Solutions |          Description             |
+|-------|---------------------------|--|-------------------------------------|
+| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Morning_tools_elemental_python.ipynb) || Setting up Tools Google Colab and Github and basics of data types| 
+| Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D1/D1Afternoon_controlFlow.ipynb)|{{badge D1/D1Afternoon_controlFlow SOLUTION.ipynb}}| Control flow|
+| Day 2 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D2/D2Morning.ipynb) || Reading data, arithmetics and functions|
+| Day 2 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp-2023/blob/main/D2/D2Afertoon.ipynb) || Excersise: 'SARS-Cov-2 sequence' |
+| Day 3 morning  | || Numpy, Matlab arrays and plots|
+| Day 3 afternoon || | Excersise: 'Chile: COVID data'|
+| Day 4 morning | || Derivatives|
+| Day 4 afternoon | || Integrals and Convolutional filters|
+| Day 5 morning |  || Linear equations and Fourier Transform|
+| Day 5 afternoon | | | Excersise: Integrate all the week content |
 
 
 ## **Send your work for feedback!!!**
